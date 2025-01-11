@@ -36,7 +36,7 @@ The above code outputs this. The model can be rotated and moved closer by using 
 ## Detailed description
 
 ### App
-Generates a window where the specified cubes are rendered. It is possible to zoom and rotate the image using the keyboard arrow keys (`&larr;`, `&uarr;`, `&darr;` and `&rarr;`).
+Generates a window where the specified cubes are rendered. It is possible to zoom and rotate the image using the keyboard arrow keys.
 
 > **cube_3d_render.App(**coords_lists = [], colors_list = [], win_size = (1728, 972), background_color = (0.1,0.1,0.1)**)**
 
