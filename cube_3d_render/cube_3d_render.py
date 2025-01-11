@@ -2,7 +2,7 @@ import pygame as pg
 import OpenGL.GL
 import OpenGL.GLU
 import numpy as np
-from cube import Cube
+from .cube import Cube
 
 class App:
 
